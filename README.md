@@ -1,0 +1,2 @@
+- **LeetCode** – https://leetcode.com/u/fVLrPmDRKM/
+- **LinkedIn** – https://www.linkedin.com/in/aydar-nabiev-076536234/

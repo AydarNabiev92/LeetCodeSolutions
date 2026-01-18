@@ -37,8 +37,8 @@ public class SolutionOne {
         List<int[]> list = new ArrayList<>();
 
         while (firstPointer < firstList.length && secondPointer < secondList.length) {
-            int[] firstInterval  = firstList[firstPointer];
-            int[] secondInterval  = secondList[secondPointer];
+            int[] firstInterval = firstList[firstPointer];
+            int[] secondInterval = secondList[secondPointer];
 
             // conditions:
             // first interval is fully before second interval - increase first
@@ -76,8 +76,8 @@ public class SolutionOne {
         List<Interval> list = new ArrayList<>();
 
         while (firstPointer < arr1.length && secondPointer < arr2.length) {
-            Interval firstInterval  = arr1[firstPointer];
-            Interval secondInterval  = arr2[secondPointer];
+            Interval firstInterval = arr1[firstPointer];
+            Interval secondInterval = arr2[secondPointer];
 
             // conditions:
             // first interval is fully before second interval - increase first
